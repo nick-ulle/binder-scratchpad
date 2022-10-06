@@ -1,0 +1,7 @@
+jupyterlab-link-share
+
+numpy
+pandas
+matplotlib
+seaborn
+plotnine
