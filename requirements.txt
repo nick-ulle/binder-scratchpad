@@ -1,4 +1,5 @@
 jupyterlab-link-share
+xeus-python
 
 numpy
 pandas
